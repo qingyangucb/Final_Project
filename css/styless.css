@@ -1,0 +1,8 @@
+.table{
+  font-family: “Copperplate Gothic Bold”, sans-serif;
+  color: #ff2400;
+  /*text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 white;*/
+  font-size: 20px;
+  margin-left: 15px;
+  margin-bottom:100px
+}

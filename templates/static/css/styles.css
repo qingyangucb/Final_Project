@@ -1,0 +1,97 @@
+/* FOR HOMEWORK!!!! */
+
+
+/* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
+body {
+  background: #F5F5F5;
+  background-image: url("/static/pHrl4n.jpg");
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.navbar-custom {
+
+    background-color: #ff2400
+
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  font-family: “Copperplate Gothic Bold”, sans-serif;
+  color: #ffffff;
+  font-weight: bold;
+  /*text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 white;*/
+  font-size: 25px;
+
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: black;
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+.img-center-land-page {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.img-center-sm-viz {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:  auto;
+  margin-bottom: auto;
+  width: 50%;
+}
+
+/*.row.vdivide [class*='col-']:not(:last-child):after {
+  background: #e0e0e0;
+  width: 1px;
+  content: "";
+  display:block;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  right: 0;
+  min-height: 70px;
+}*/
+
+.top_marg{
+  margin-top:60px
+}
+
+.top_marg2{
+  margin-top:12px
+}
+
+.text-form {
+  height: 480px;
+  font-family: “Copperplate Gothic Bold”, sans-serif;
+  color: #ff2400;
+  /*text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 white;*/
+  font-size: 20px;
+  margin-left: 15px;
+
+}
+
+.panel-transparent{
+  background: none;
+}
+
+/*@media (max-width: 960px) {
+  .top_marg{
+    margin-top:100px;
+  }
+
+}*/

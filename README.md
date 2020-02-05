@@ -1,2 +1,2 @@
-# Final_Project
-Berkeley Bootcamp Final Project
+# Group-Project-3
+Group project 3
