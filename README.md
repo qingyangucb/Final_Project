@@ -1,2 +1,4 @@
 # Group-Project-3
 Group project 3
+In this project we incorporated machine learning using tensor flow in project 2. The result is a website that allows the user to specify a restaurant category, and pick a location on the map, and display the machine learning prediction of how good and expensive that resturant might be. This might be very useful for someone who's thinking about opening a restaurant in the bay area and can give them some insight to their business model.
+We used python to pull the data we gathered from yelp API, and feed it to a neural network we built with tensor flow, and train the model to predict the price and rating based on the longitude and latitude of the location specified by the user through html. We have also built a table to display the results as well as the accuracy of the mode.
